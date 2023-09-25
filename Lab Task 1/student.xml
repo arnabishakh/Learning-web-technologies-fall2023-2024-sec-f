@@ -1,0 +1,29 @@
+<student_info>
+    <student>
+        <sl_No> 23 </sl_No>
+        <name> John Carter </name>
+        <admision_date>
+            <date> 25 </date>
+            <month> 12 </month>
+            <year> 2015 </year>
+        </admision_date>
+    </student>
+    <student>
+        <sl_No> 29 </sl_No>
+        <name>Bob Marshal </name>
+        <admision_date>
+            <date> 13 </date>
+            <month> 01 </month>
+            <year> 1999 </year>
+        </admision_date>
+    </student>
+    <student>
+        <sl_No> 35 </sl_No>
+        <name> Clark Kent </name>
+        <admision_date>
+            <date> 17 </date>
+            <month> 06 </month>
+            <year> 2005 </year>
+        </admision_date>
+    </student>
+</student_info>
